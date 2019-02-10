@@ -1,3 +1,7 @@
 first user first testt
 seconde user add
+<<<<<<< HEAD
 second added this line
+=======
+first added this line
+>>>>>>> 119de6ce0fdcd82d0c940fe93615de6fde738c2f
